@@ -1,6 +1,6 @@
 <h1>MediaGen</h1>
 
- ### [YouTube Demonstration]([https://youtu.be/7eJexJVCqJo](https://youtu.be/FMkTxMuZli4))
+ [YouTube Demonstration](https://youtu.be/FMkTxMuZli4)
 
 <h2>Description</h2>
 MediaGen is a comprehensive movie and TV show database enabling users to search for any desired film or series. It provides extensive details including release date, genres, plot, and production info for each title. Powered by Python's Streamlit framework, the web app provides an intuitive interface, while leveraging the TMDB API to seamlessly fetch and display extensive details about movies and shows.
