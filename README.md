@@ -25,32 +25,28 @@ With MediaGen, my aim was to develop a platform that could emulate the functiona
 <h2>Program Images:</h2>
 
 <p align="center">
-Mvoie Search: <br/>
-<img src="https://i.imgur.com/62TgaWL.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Movie Search: <br/>
+<img src="https://imgur.com/tw7kVtG.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+TV Show Search: <br/>
+<img src="https://imgur.com/M2zX9VH.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Top Rated Section: <br/>
+<img src="https://imgur.com/OjYNhqg.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p align="center">
+Random Shuffle: <br/>
+<img src="https://imgur.com/2xTXc9K.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
